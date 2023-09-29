@@ -240,14 +240,14 @@
         $(document).ready(function () {
             debugger;
             productsArray = ''; categoryproduct = [];
-            $.getJSON("https://localhost:446/inlab/assets/categoryproduct.json", function (data) {
+            $.getJSON("https://pushpendraepikourion.github.io/assets/categoryproduct.json", function (data) {
                 debugger;
                 if (data != null && data.products.length > 0) {
                     productsArray = data.products;
                 }
             });
             
-            $.getJSON("https://localhost:446/inlab/assets/categoryproduct.json", function (data) {
+            $.getJSON("https://pushpendraepikourion.github.io/assets/categoryproduct.json", function (data) {
                 debugger;
                 var _html = "";
                 if (data != null) {
