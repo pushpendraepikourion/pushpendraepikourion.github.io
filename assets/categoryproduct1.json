@@ -1,0 +1,131 @@
+{
+  "products": [
+    {
+      "productname": "Fix Speed Vortex Mixer",
+      "productid": "1",
+      "productimage": "mixer1.png",
+      "functions": "3500 RPM, 50 ml",
+      "features": [
+        {
+          "1": "small and compact appearance and easy to carry.",
+          "2": "Brushless DC motor, strong power and maintanance-free",
+          "3": "Imported silicone virbrating head, strong toughness,sufficient flexiblity and long service life. ",
+          "4": "The sample can be swirled quickly within 5 seconds",
+          "5": "Using flexible anti vibration foot pads, metal base, and triangular structure, the instrument has good stability, low operating noise and no displacement during operation"
+
+        }
+      ],
+      "attribute": [
+        {
+          "1": "DC Brushless Motor",
+          "2": "12VDC-1A/50 Hz",
+          "3": "Power Adapter : 100-240 VDC/ 50-60Hz",
+          "4": "Press Vibration : Inching",
+          "5": "Circumferential Diameter : 4.5 mm",
+          "6": "Maximum Throughput : 50 ml",
+          "7": "Maximum Diameter of Test Tube : 35 mm"
+        }
+      ]
+    },
+    {
+      "productname": "Magnetic Stirrer",
+      "productid": "2",
+      "productimage": "stirrer.png",
+      "functions": "300~3000 RPM, 3L",
+      "features": [
+        {
+          "1": "small and compact appearance and easy to carry.",
+          "2": "Brushless DC motor, strong power and maintanance-free",
+          "3": "Imported silicone virbrating head, strong toughness,sufficient flexiblity and long service life. ",
+          "4": "The sample can be swirled quickly within 5 seconds",
+          "5": "Using flexible anti vibration foot pads, metal base, and triangular structure, the instrument has good stability, low operating noise and no displacement during operation",          
+        }
+      ],
+      "attribute": [
+        {
+          "1": "DC Micro Motor",
+          "2": "12VDC-0.4A/50 Hz",
+          "3": "Power Adapter : 100-240 VDC/ 50-60Hz",
+          "4": "Press Vibration : Regulation",
+          "5": "Size of Stirring Bar: 30 mm",
+          "6": "Stirring Direction: Forward",
+          "7": "Plate Size: 120 x 114 mm",
+          "8": "Full Load Noise : <30 db"
+        }
+      ]
+    },
+    {
+      "productname": "Variable Speed Vortex Mixer",
+      "productid": "3",
+      "productimage": "mixer1.png",
+      "functions": "0~3500 RPM, 50 ml",
+      "features": [
+        {
+          "1": "small and compact appearance and easy to carry.",
+          "2": "Brushless DC motor, strong power and maintanance-free",
+          "3": "Imported silicone virbrating head, strong toughness,sufficient flexiblity and long service life. ",
+          "4": "The sample can be swirled quickly within 5 seconds",
+          "5": "Using flexible anti vibration foot pads, metal base, and triangular structure, the instrument has good stability, low operating noise and no displacement during operation"
+
+        }
+      ],
+      "attribute": [
+        {
+          "1": "DC Brushless Motor",
+          "2": "12VDC-1A/50 Hz",
+          "3": "Power Adapter : 100-240 VDC/ 50-60Hz",
+          "4": "Press Vibration : Inching + Regulation",
+          "5": "Circumferential Diameter : 4.5 mm",
+          "6": "Maximum Throughput : 50 ml",
+          "7": "Maximum Diameter of Test Tube : 35 mm"
+        }
+      ]
+    },
+    {
+      "productname": "Mini Lab Centrifuge",
+      "productid": "4",
+      "productimage": "configure1.png",
+      "functions": "300~4000 RPM, 5,10,15 mlx6",
+      "features": [
+        {
+          "1": "small and compact appearance and easy to carry.",
+          "2": "Brushless DC motor, strong power and maintanance-free",
+          "3": "Imported silicone virbrating head, strong toughness,sufficient flexiblity and long service life. ",
+          "4": "The sample can be swirled quickly within 5 seconds",
+          "5": "Using flexible anti vibration foot pads, metal base, and triangular structure, the instrument has good stability, low operating noise and no displacement during operation"
+
+        }
+      ],
+      "attribute": [
+        {
+          "1": "Classification: Laboratory Centrifuge",
+          "2": "Noise: 50dB(A)",
+          "3": "Rotor capacity: 6*10ml & 6*15ml",
+          "4": "Maximum centrifugal force: 1953xg",
+          "5": "Time Range: 1-100min",
+          "6": "Voltage: 110V 60Hz / 240V 50Hz",
+          "7": "Speed: 300-4000r/min",
+          "8": "size: 250*238*180 mm"
+        }
+      ]
+    }
+  ],
+  "category": [
+    {
+      "categoryname": "Vortex Mixer",
+      "categoryIdentifire": "Mixer",
+      "productids": "1,3"
+    },
+    {
+      "categoryname": "Stirrer",
+      "categoryIdentifire": "Stirrer",
+      "productids": "2"
+    },
+    {
+      "categoryname": "Centrifuges",
+      "categoryIdentifire": "Centrifuges",
+      "productids": "4"
+    }
+  ]
+
+}

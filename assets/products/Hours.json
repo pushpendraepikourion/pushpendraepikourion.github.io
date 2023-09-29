@@ -1,0 +1,134 @@
+{
+  "OpeningHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "closes": "05:00 AM",
+      "dayOfWeek": "Monday",
+      "opens": "11:00 AM"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "closes": "05:00 AM",
+      "dayOfWeek": "Tuesday",
+      "opens": "10:00 AM"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "closes": "05:00 AM",
+      "dayOfWeek": "Wednesday",
+      "opens": "09:00 AM"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "closes": "05:00 PM",
+      "dayOfWeek": "Thursday",
+      "opens": "10:00 AM"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "closes": "05:00 AM",
+      "dayOfWeek": "Friday",
+      "opens": "08:00 AM"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "closes": "05:00 AM",
+      "dayOfWeek": "Saturday",
+      "opens": "10:00 AM"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "closes": "05:00 AM",
+      "dayOfWeek": "Sunday",
+      "opens": "10:00 AM"
+    }
+  ],
+  "TakeawayHoursSpecification": [
+    {
+      "@type": "TakeawayHoursSpecification",
+      "closes": "08:00 PM",
+      "dayOfWeek": "Monday",
+      "opens": "10:00 AM"
+    },
+    {
+      "@type": "TakeawayHoursSpecification",
+      "closes": "08:00 PM",
+      "dayOfWeek": "Tuesday",
+      "opens": "09:00 AM"
+    },
+    {
+      "@type": "TakeawayHoursSpecification",
+      "closes": "08:00 PM",
+      "dayOfWeek": "Wednesday",
+      "opens": "10:00 AM"
+    },
+    {
+      "@type": "TakeawayHoursSpecification",
+      "closes": "05:00 PM",
+      "dayOfWeek": "Thursday",
+      "opens": "10:00 AM"
+    },
+    {
+      "@type": "TakeawayHoursSpecification",
+      "closes": "09:00 PM",
+      "dayOfWeek": "Friday",
+      "opens": "09:00 AM"
+    },
+    {
+      "@type": "TakeawayHoursSpecification",
+      "closes": "09:00 PM",
+      "dayOfWeek": "Saturday",
+      "opens": "09:00 AM"
+    },
+    {
+      "@type": "TakeawayHoursSpecification",
+      "closes": "05:00 PM",
+      "dayOfWeek": "Sunday",
+      "opens": "09:00 AM"
+    }
+  ],
+  "KitchenHoursSpecification": [
+    {
+      "@type": "KitchenHoursSpecification",
+      "closes": "05:00 PM",
+      "dayOfWeek": "Monday",
+      "opens": "09:00 AM"
+    },
+    {
+      "@type": "KitchenHoursSpecification",
+      "closes": "05:00 AM",
+      "dayOfWeek": "Tuesday",
+      "opens": "09:00 AM"
+    },
+    {
+      "@type": "KitchenHoursSpecification",
+      "closes": "05:00 PM",
+      "dayOfWeek": "Wednesday",
+      "opens": "10:00 AM"
+    },
+    {
+      "@type": "KitchenHoursSpecification",
+      "closes": "05:00 PM",
+      "dayOfWeek": "Thursday",
+      "opens": "09:00 AM"
+    },
+    {
+      "@type": "KitchenHoursSpecification",
+      "closes": "05:00 PM",
+      "dayOfWeek": "Friday",
+      "opens": "09:00 AM"
+    },
+    {
+      "@type": "KitchenHoursSpecification",
+      "closes": "05:00 PM",
+      "dayOfWeek": "Saturday",
+      "opens": "10:00 AM"
+    },
+    {
+      "@type": "KitchenHoursSpecification",
+      "closes": "05:00 PM",
+      "dayOfWeek": "Sunday",
+      "opens": "10:00 AM"
+    }
+  ]
+}
