@@ -27,11 +27,13 @@
       ],
       "attribute": [
         {
-          "1": "Small and compact appearance and easy to carry.",
-          "2": "Brushless DC motor, strong power and maintanance-free",
-          "3": "Imported silicone virbrating head, strong toughness,sufficient flexiblity and long service life.",
-          "4": "The sample can be swirled quickly within 5 seconds",
-          "5": "Using flexible anti vibration foot pads, metal base, and triangular structure, the instrument has good stability, low operating noise and no displacement during operation"
+          "1": "DC Brushless Motor.",
+          "2": "12VDC-1A",
+          "3": "Power Adapter : 110-240 VAC/ 50-60Hz.",
+          "4": "Press Vibration : Inching",
+          "5": "Circumferential Diameter : 4.5 mm",
+          "6": "Maximum Throughput : 50 ml",
+          "7": "Maximum Diameter of Test Tube : 35 mm"
         }
       ],
       "productlist": [
@@ -96,6 +98,7 @@
       "productidentity": "variablevortex",
       "productid": "variablevortex",
       "productimage": "mixer1.png",
+      "functions": "0~3500 RPM, 50 ml",
       "productDetails": [
         {
           "Model": "IL-VM-VS",
@@ -118,7 +121,7 @@
       "attribute": [
         {
           "1": "DC Brushless Motor",
-          "2": "12VDC-1A/50 Hz",
+          "2": "12VDC-1A",
           "3": "Power Adapter : 100-240 VDC/ 50-60Hz",
           "4": "Press Vibration : Inching + Regulation",
           "5": "Circumferential Diameter : 4.5 mm",
@@ -161,15 +164,14 @@
       ],
       "attribute": [
         {
-          "1": "Low speed centrifuge",
-          "2": "Precise separation / smooth operation / timing function / step-less speed control",
-          "3": "Mainly used to separate solid particles from liquids or to separate two immiscible liquids with different densities in emulsions.",
-          "4": "Laboratory, Medical, Biological, Education",
-          "5": "High centrifugal purification rate",
-          "6": "LED display",
-          "7": "Stable and low noise",
-          "8": "Strong power",
-          "9": "Easy Functionality"
+          "1": "Classification: Laboratory Centrifuge",
+          "2": "Noise: 50dB(A)",
+          "3": "Rotor capacity: 6*10ml & 6*15m.",
+          "4": "Maximum centrifugal force: 1685xg",
+          "5": "Time Range: 1-100min",
+          "6": "Voltage: 110-240 VAC/ 50-60Hz",
+          "7": "Speed: 300-4000r/min",
+          "8": "Size: 230*258*172mm"          
         }
       ],
       "productlist": [
